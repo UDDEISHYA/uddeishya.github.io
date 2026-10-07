@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14519cb3.css",
+    "main.js": "/static/js/main.5dae6a24.js",
+    "static/js/206.dab393be.chunk.js": "/static/js/206.dab393be.chunk.js",
+    "static/media/siftory.png": "/static/media/siftory.38d83b13aea08e1d642c.png",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/book.jpeg": "/static/media/book.b80e3e7616a962dcb79b.jpeg",
+    "static/media/profile.jpeg": "/static/media/profile.d662a4852a7d8dd270b0.jpeg",
+    "static/media/hbs-logo.png": "/static/media/hbs-logo.bf81b5b25f96031776ac.png",
+    "static/media/microsoft-logo.webp": "/static/media/microsoft-logo.d33fe9d5472dc1ce99f7.webp",
+    "static/media/aws-logo.webp": "/static/media/aws-logo.295d5fd4bd5e4c7f4d78.webp",
+    "static/media/vit-logo.jpg": "/static/media/vit-logo.ed9eb4a561f261d33dd1.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.14519cb3.css",
+    "static/js/main.5dae6a24.js"
+  ]
+}
