@@ -1,0 +1,81 @@
+#education {
+  .vertical-timeline span {
+    color: white;
+    font-family: 'Courier Prime', monospace;
+  }
+
+  .vertical-timeline p {
+    color: rgb(39, 40, 34);
+  }
+
+  .vertical-timeline-element p {
+    color: rgb(39, 40, 34);
+  }
+
+  .vertical-timeline-element h3 {
+    color: rgb(39, 40, 34);
+  }
+
+  .vertical-timeline-element h4 {
+    color: rgb(39, 40, 34);
+  }
+
+  .vertical-timeline-element span {
+    color: rgb(39, 40, 34);
+  }
+
+  .vertical-timeline-element .vertical-timeline-element-date {
+    color: white;
+  }
+
+  .svg-inline--fa {
+    color: white;
+  }
+
+  .education-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 8px;
+  }
+
+  .institution-logo {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    border-radius: 6px;
+    flex-shrink: 0;
+  }
+
+  .credential-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 6px 16px;
+    border: 1px solid #5000ca;
+    border-radius: 20px;
+    color: #5000ca !important;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.2s ease;
+
+    &:hover {
+      background: #5000ca;
+      color: white !important;
+    }
+  }
+
+  @media screen and (max-width: 1170px) {
+    .vertical-timeline-element .vertical-timeline-element-date {
+      color: rgb(39, 40, 34);
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .education-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 10px;
+    }
+  }
+}
